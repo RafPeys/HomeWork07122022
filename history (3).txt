@@ -1,0 +1,30 @@
+   0 vi /tmp/file.txt
+   1 df -h | head -3 /tmp/file.txt
+   2 export NAME=Rafael VAR=Peisakhov
+   3 echo $NAME $VAR >> /tmp/file.txt
+   4 nano/tmp/file.txt
+   5 nano /tmp/file.txt
+   6 unset NAME VAR
+   7 env
+   8 vi /tmp/file.txt
+   9 history > /tmp/history.txt
+  10 export_history.txt
+  11 history >> /tmp/history.txt
+  12 export_file history.txt
+  13 history >> history.txt
+   0 vi /tmp/file.txt
+   1 df -h | head -3 /tmp/file.txt
+   2 export NAME=Rafael VAR=Peisakhov
+   3 echo $NAME $VAR >> /tmp/file.txt
+   4 nano/tmp/file.txt
+   5 nano /tmp/file.txt
+   6 unset NAME VAR
+   7 env
+   8 vi /tmp/file.txt
+   9 history > /tmp/history.txt
+  10 export_history.txt
+  11 history >> /tmp/history.txt
+  12 export_file history.txt
+  13 history >> history.txt
+  14 cd history.txt
+  15 history >> history.txt
